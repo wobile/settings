@@ -1,0 +1,22 @@
+{
+    "name": "wobile/settings",
+    "description": "Yii2 settings with database module with GUI manager supported",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wo IO",
+            "email": "wobile.io@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "wo\\settings\\": "src/"
+        }
+    }
+  
+}
