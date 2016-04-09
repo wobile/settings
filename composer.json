@@ -1,15 +1,15 @@
 {
-    "name": "vendor/wosettings",
-    "description": "Wo Application Settings",
+    "name": "wobile/wosettings",
+    "description": "WoApplication settings with database module with GUI manager supported",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Wo IO",
             "email": "wobile.io@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*"
     },
@@ -17,5 +17,5 @@
         "psr-4": {
             "wo\\settings\\": "src/"
         }
-    }
+    } 
 }
