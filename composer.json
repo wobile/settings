@@ -1,6 +1,6 @@
 {
-    "name": "wobile/yii2-settings",
-    "description": "Yii2 settings with database module with GUI manager supported",
+    "name": "wobile/wosettings",
+    "description": "WoApplication settings with database module with GUI manager supported",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
