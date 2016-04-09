@@ -1,8 +1,9 @@
 {
-    "name": "wobile/wosettings",
-    "description": "WoApplication settings with database module with GUI manager supported",
+    "name": "vendor/wosettings",
+    "description": "Wo Application Settings",
     "type": "yii2-extension",
-    "license": "MIT",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Wo IO",
@@ -17,5 +18,4 @@
             "wo\\settings\\": "src/"
         }
     }
-  
 }
