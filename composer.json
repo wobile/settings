@@ -9,7 +9,6 @@
             "email": "wobile.io@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*"
     },
